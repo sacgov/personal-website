@@ -1,5 +1,10 @@
 ---
 title: Learning How To Learn
+tags:
+- Foo
+- Bar
+categories: 
+- Baz
 ---
 ### Types of Learning
 * Focused Learning
