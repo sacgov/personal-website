@@ -128,8 +128,12 @@
     max-height: calc(95vh - 7rem)
     text-align: right
 
+    a
+      transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1); 
+
     a:hover
       color: $color-link
+      transform: translate(5px);
 
     .toc-level-1 > .toc-link
       display: none
@@ -158,6 +162,10 @@
 
     .toc-number
       display: none
+    
+    .current
+      color: $color-link
+      transform: translate(5px);
 
 // smartphone + phapblet
 @media screen and (max-width: 500px)

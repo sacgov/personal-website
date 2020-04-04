@@ -1,8 +1,10 @@
 <!-- jquery -->
 <%- js('lib/jquery/jquery.min') %>
 <%- js('lib/justified-gallery/js/jquery.justifiedGallery.min.js') %>
+
 <!-- clipboard -->
 <% if (is_post()){ %>
+  <%- js('js/toc-hightlight') %>
   <%- js('lib/clipboard/clipboard.min') %>
   <script type="text/javascript">
   $(function() {
