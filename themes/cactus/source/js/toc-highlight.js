@@ -1,10 +1,6 @@
 window.onload = function () {
-
     var toc = document.querySelector('.toc');
     var tocItems;
-
-    // Factor of screen size that the element must cross
-    // before it's considered visible
     var TOP_MARGIN = 0.35,
         BOTTOM_MARGIN = 0.2;
 
@@ -19,7 +15,6 @@ window.onload = function () {
         tocItems = tocItems.map(function (item) {
             var anchor = item.querySelector('a');
             var target = document.getElementById(anchor.getAttribute('href').slice(1));
-
             return {
                 listItem: item,
                 anchor: anchor,
