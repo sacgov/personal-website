@@ -6,7 +6,7 @@ title: Demystifying Promises
 Quoting Wikipedia
 > Concurrency is the ability of different parts or units of a program, algorithm, or problem to be executed out-of-order or in a partial order, without affecting the final outcome. This allows for parallel execution of the concurrent units, which can significantly improve the overall speed of the execution in multi-processor and multi-core systems.
 
-Concurrency is basically running things in parallel. It is though ?. 
+Concurrency is basically running things in parallel. Is it though ?. 
 Concurrency is about dealing with lots of things at once. Parallelism is about doing lots of things at once. An application can be concurrent — but not parallel, which means that it processes more than one task at the same time, but no two tasks are executing at the same time instant. Parallelism is when tasks literally run at the same time.
 
 If I'm replying to two threads in slack, one after the other. But before i finish the first message, I'm fully aware of the notification on the second thread. This means that I'm concurrently processing slack events.
