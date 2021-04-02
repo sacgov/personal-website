@@ -6,7 +6,8 @@
   "scripts": {
     "lint": "gulp lint --silent",
     "test": "gulp validate --silent",
-    "clean": "stylus-supremacy format source/css/**/*.styl --options .stylintrc -r"
+    "clean": "stylus-supremacy format source/css/**/*.styl --options .stylintrc -r",
+    "sync":"cp -r ../personal-website/themes/cactus/* ."
   },
   "repository": {
     "type": "git",
