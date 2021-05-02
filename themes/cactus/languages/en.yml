@@ -2,6 +2,7 @@ nav:
   home: Home
   about: About
   articles: Writing
+  pentathlos: Pentathlos Project
   tag: Tag
   category: Category
   projects: Projects
@@ -19,6 +20,7 @@ index:
   enum_comma: ','
   enum_and: and
   articles: Writing
+  pentathlos: Pentathlos Project
   projects: Projects
   topics: Topics
   most_recent: Most recent
