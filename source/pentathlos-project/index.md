@@ -14,7 +14,7 @@ Eratosthenes of Cyrene was a Greek polymath: a mathematician, geographer, poet, 
 His critics scorned him, calling him Beta (the second letter of the Greek alphabet) because he always came in second in all his endeavours. Nonetheless, his devotees nicknamed him **Pentathlos** after the Olympians who were well rounded competitors, for he had proven himself to be knowledgeable in every area of learning. Eratosthenes yearned to understand the complexities of the entire world.
 
 
-I feel being second at a lot of things is more of a  merit than a demerit. It signifies the curiousity in a person. I totally relate to erathosthenes' goal of unravelling the mysteries of the entire world.
+I think that being [T-shaped](https://jchyip.medium.com/why-t-shaped-people-e8706198e437) has its advantages. It signifies the curiousity in a person. Each person has his vocation. For me it is coding and i yearn to be the absolute best at it. I totally relate to erathosthenes' goal of unravelling the mysteries of the entire world.
 
 
 ## What's in a name?
