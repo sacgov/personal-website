@@ -1,8 +1,8 @@
 .DS_Store
-.idea
-Thumbs.db
+node_modules
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
 db.json
-*.log
-node_modules/
-public/
-.deploy*/
