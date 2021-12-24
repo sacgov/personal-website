@@ -2,6 +2,7 @@
 title: Personal MBA
 date: 2020-08-29 17:07:47
 ---
+There ain’t no such thing as a free lunch.
 the world owes us nothing. it was here first
 Its ths simple if i never try anything i never learn anything
 Things that matter must never be at the mercy of things which matter least

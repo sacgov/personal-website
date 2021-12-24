@@ -83,4 +83,3 @@ Goals :
 - how to measure benjamins vitrues
 - home/ luxury items from the secondary sale
 - story telling
-- https://x-team.com/blog/8-top-engineering-management-books/
