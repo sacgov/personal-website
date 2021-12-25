@@ -1,6 +1,6 @@
 ---
 title: LZW Compression
-date: 2020-03-21 17:07:47
+hidden: true
 ---
 
 ### LZ Compression Algorithms
