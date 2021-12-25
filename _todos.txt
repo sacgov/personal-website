@@ -13,3 +13,7 @@ Proof of work
 Pentathlos
 Books summaries and shelf
 Exercises
+
+Fix the footer
+
+remove the RSS feed

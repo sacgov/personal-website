@@ -20,6 +20,7 @@
 
 title: Sachin Govind
 email: bssachingovind@gmail.com
+author: Sachin Govind
 description: I build software and share my learnings.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sachingovind.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -29,7 +30,6 @@ github_username:  sacgov
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
   - jekyll-seo-tag
 
 # Exclude from processing.
@@ -52,3 +52,4 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - old-hexo-blog/
+  - assets/
