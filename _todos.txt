@@ -10,6 +10,7 @@ book summary
 book shelf
 Add logo in page
 Decide on the top navigation and go back
+Add favicon in all pages
 
 
 seo
