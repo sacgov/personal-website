@@ -1,32 +1,35 @@
-Add Scuba
-Exercises
-Add moocs
-Add notion thoughts
-add a home page that introduces to me
-add resume
-Add movies and songs
-uses this page
 
-fix the footer
+
 headings in each page
 color change to white and red
+Diff from manas saloi
+proof of work and resume
+separation of code and writing
+coding assistance and highlighter
+book summary
+book shelf
+Add logo in page
+Decide on the top navigation and go back
 
-copy all the files from manas saloi
-
-Add everyday thoughts
-add code higlighter
-add a page of code
-Proof of work
-
-Fix the footer
-
-remove the RSS feed
-add book shelf
-add book summary
 
 seo
 google analytics
+fix the index pages CSS
+Add proper intriguing intro about me
 
-fix the index pages
-add rules of life
-Add what i want to learn in life
+
+Fix the footer
+remove the RSS feed
+
+
+Info
+moocs, exercises
+essentialism
+rules of life
+learn in life
+everyday thoughts
+uses this page
+notion thoughts
+Scuba
+juggling
+movies and songs
