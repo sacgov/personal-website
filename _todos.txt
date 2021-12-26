@@ -33,3 +33,5 @@ notion thoughts
 Scuba
 juggling
 movies and songs
+knowledge box
+Tracking and algorithms
