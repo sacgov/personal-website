@@ -2,15 +2,16 @@
 
 headings in each blog type 
 have a blog for code writing
-and resume
 coding assistance and highlighter
 Decide on the top navigation and go back
-private pages
 Craft sub urls carefully
 Decide on urls-> not have post date
 
 
 
+Have a sub url
+check which layouts are being used where
+have a private layout
 grammar check
 rich preview in various sites twitter linkedin slack whatsapp
 Add some tech blogs to the main page

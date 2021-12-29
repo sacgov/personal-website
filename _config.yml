@@ -33,9 +33,11 @@ logo: https://sachingovind.com/assets/favicon-logo.png
 
 # Build settings
 theme: minima
+permalink: /posts/:title/
 plugins:
   - jekyll-seo-tag
 google_analytics: G-ZCDTDHRQQ7
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
