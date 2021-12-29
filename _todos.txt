@@ -1,15 +1,10 @@
 
 
-headings in each blog type 
-have a blog for code writing
-coding assistance and highlighter
+headings in each blog type Code Writing and Pentathlos
 Decide on the top navigation and go back
+separating the pages accordingly by categories
 Craft sub urls carefully
-Decide on urls-> not have post date
-
-
-
-Have a sub url
+code or writing or etc and main sub folder
 check which layouts are being used where
 have a private layout
 grammar check
@@ -17,6 +12,8 @@ rich preview in various sites twitter linkedin slack whatsapp
 Add some tech blogs to the main page
 Story telling through blogs
 post page formatting
+coding assistance and highlighter
+substack hits and regular writing
 Work proof
     featured work
     Add you study and what you do in a simple paragraph and resume link
