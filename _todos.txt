@@ -4,28 +4,37 @@ headings in each blog type
 have a blog for code writing
 proof of work and resume
 coding assistance and highlighter
-book summary
-book shelf
-page formatting
-Decide on the top navigation and go back
-separate root dirs for blogs
-
-
-seo
 Add proper intriguing intro about me
+book shelf
+Decide on the top navigation and go back
+private pages
+Craft sub urls carefully
+Decide on urls-> not have post date
 
 
-Info
+
+grammar check
+rich preview in various sites twitter linkedin slack whatsapp
+Add some tech blogs to the main page
+Story telling through blogs
+post page formatting
+featured blogs books
+quick links in each page
+subheading in large blogs or tags
+seo for the links
 moocs, exercises
 essentialism
+headings in the post page
 rules of life
-learn in life
+learnings in life
+book summary
+links or bookmarks dump
 everyday thoughts
 uses this page
 notion thoughts
-Scuba
-juggling
+Scuba juggling chess hobbies
 movies and songs
 knowledge box
 Tracking and algorithms
 comeup with a better tagline
+Add a page with tags for better navigation

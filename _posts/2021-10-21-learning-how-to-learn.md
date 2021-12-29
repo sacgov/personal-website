@@ -54,7 +54,7 @@ A good analogy would be why we learn a language quickly if we are with people wh
 
 A chunk is a network of neurons that fire together and know to do a task well. Focused practice and repetition can help build strong memory traces. Chunks are not all that is needed to become truly a master, but they help the brain with resources as we can ignore the underlying details relying on a chunk. Think of it like dressing, a single thought involving multiple operations like swirls of clothes, tucking your limbs.
 
-### How to from a Chunk?
+### How to form a Chunk?
 
 Every Learning is a tad different. Learning to dance is different compared to learning math. Chunking physical motions is not the same for History and Art. 
 The _first_ step of chunking is to provide **undivided attention** to the task at hand. If we are running media in the background, looking up the social feed or mail means that our brain is having difficulty chunking. We have limited working memory and nothing should interfere with its process.
@@ -104,7 +104,7 @@ Cues are mostly dependant on
 * Feelings
 * Reaction to other people's words
 
-We need to change our response to these cues. Do not eat that favorite snack as you by it on the way back home. Altering the habit drastically requires a lot of willpower and not recommended. We may feel like we have a lot of willpower. Even if that is the case it is still beneficial to use it sparingly. Rewire the brain to slowly alter the behavior. As we get better, the activity starts getting better.
+We need to change our response to these cues. Do not eat that favorite snack as you buy it on the way back home. Altering the habit drastically requires a lot of willpower and not recommended. We may feel like we have a lot of willpower. Even if that is the case it is still beneficial to use it sparingly. Rewire the brain to slowly alter the behavior. As we get better, the activity starts getting better.
 
 _Time after time, those who are committed to maintaining healthy leisure time along with their hard work, outperform those who doggedly pursue an endless treadmill_.
 
@@ -113,7 +113,7 @@ Set a quitting time and write your task the night before to be clear and have mo
 A final checklist
 * Keep a planner journal so you can easily track when you reach your goals and observe what does and doesn't work.
 * Commit yourself to certain routines and tasks each day.
-* Write your planned tasks out the night before so your brain has time to dwell on your goals and help ensure success.
+* Write your planned tasks out the previous night. Your brain now has time to dwell on your goals and help ensure success.
 * Arrange your work into a series of small challenges.
 * Always make sure you, and your zombies, get lots of rewards.
 * Take a few minutes to savor the feelings of happiness and triumph, which also gives your brain a chance to temporarily change modes.
