@@ -3,17 +3,17 @@
 // Define defaults for each variable.
 
 $base-font-family: charter, Georgia, Cambria, "Times New Roman", Times, serif !default;
-$base-font-size:   21px !default;
+$base-font-size:   18px !default;
 $base-font-weight: normal !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.8 !default;
 
-$spacing-unit:     40px !default;
+$spacing-unit:     30px !default;
 
 $text-color:       #292929 !default;
-$a-color:          #3F51B5 !default;
-$background-color: #EAE7DC !default;
-$brand-color:      #2a7ae2 !default;
+$a-color:          #d41929 !default;
+$background-color: #f8f8f8 !default;
+$brand-color:      #d41929 !default;
 
 $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
