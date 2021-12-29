@@ -1,5 +1,6 @@
 ---
 title: Cross-Site Request Forgery Prevention
+layout: post
 ---
 ## Mitigation of CSRF
 

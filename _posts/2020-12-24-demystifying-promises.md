@@ -1,5 +1,6 @@
 ---
 title: Demystifying Promises
+layout: post
 ---
 ## What is concurrency and how can we achieve it?
 

@@ -1,5 +1,6 @@
 ---
 title: Personal MBA
+layout: post
 date: 2020-08-29 17:07:47
 ---
 There ain’t no such thing as a free lunch.

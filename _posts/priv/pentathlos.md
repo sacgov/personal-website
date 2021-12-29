@@ -1,5 +1,6 @@
 ---
 title: Pentathlos Project
+layout: post
 ---
 ## What is Pentathlos?
 

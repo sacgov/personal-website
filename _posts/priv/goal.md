@@ -1,6 +1,7 @@
 ---
 title: Personal Improvement
 date: 2020-03-21 17:07:47
+layout: post
 ---
 
 ### Improving myself

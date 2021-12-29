@@ -1,5 +1,6 @@
 ---
 title: LZW Compression
+layout: post
 hidden: true
 ---
 

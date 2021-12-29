@@ -1,5 +1,6 @@
 ---
 title: Learning How To Learn
+layout: post
 ---
 ### Types of Learning
 * Focused Learning
