@@ -4,6 +4,7 @@ title: Work
 permalink: /work/
 ---
 
+You can find me on [Linkedin](https://www.linkedin.com/in/sachingovind/){:target="_blank"} and my [resume](/assets/docs/resume.pdf){:target="_blank"}.
 ### Yellow.ai (~3 years)
 
 - #### Jan 2021 – Present
