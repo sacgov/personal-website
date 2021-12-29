@@ -1,27 +1,18 @@
 
 
-headings in each page
-color change to white and red
-Diff from manas saloi
+headings in each blog type 
+have a blog for code writing
 proof of work and resume
-separation of code and writing
 coding assistance and highlighter
 book summary
 book shelf
-Add logo in page
+page formatting
 Decide on the top navigation and go back
-Add favicon in all pages
-open in new tab
+separate root dirs for blogs
 
 
 seo
-google analytics
-fix the index pages CSS
 Add proper intriguing intro about me
-
-
-Fix the footer
-remove the RSS feed
 
 
 Info
@@ -37,3 +28,4 @@ juggling
 movies and songs
 knowledge box
 Tracking and algorithms
+comeup with a better tagline

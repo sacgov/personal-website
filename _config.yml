@@ -22,6 +22,8 @@ title: Sachin Govind
 email: bssachingovind@gmail.com
 author: Sachin Govind
 description: I build software and share my learnings.
+# SEO 
+tagline:  I build software and share my learnings.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sachingovind.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sacgovind
