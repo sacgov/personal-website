@@ -33,7 +33,7 @@ logo: https://sachingovind.com/assets/favicon-logo.png
 
 # Build settings
 theme: minima
-permalink: /posts/:title/
+permalink: /:categories/:title/
 plugins:
   - jekyll-seo-tag
 google_analytics: G-ZCDTDHRQQ7

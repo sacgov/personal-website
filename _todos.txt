@@ -1,6 +1,8 @@
 
-
+make default blank
+set permalinks formula well and decide on code and writing
 headings in each blog type Code Writing and Pentathlos
+Daily journal and relation to notion
 Decide on the top navigation and go back
 separating the pages accordingly by categories
 Craft sub urls carefully
