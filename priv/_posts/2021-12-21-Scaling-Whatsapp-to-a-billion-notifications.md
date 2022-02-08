@@ -1,13 +1,13 @@
 ---
-title: Scaling WhatsApp to a billion notifications
+title: Scaling WhatsApp and Campaigns at yellow.ai to a billion notifications
 layout: post
 ---
 
-## How yellow.ai scaled to a billion WhatsApp notifications
+## How yellow.ai scaled to a billion notifications on its campaign manager
 
 Yellow.ai is Conversational CX Automation Platform. We provide chatbot solutions to enterprise clients.
 We allow enterprises to configure the chatbots on WhatsApp using [WhatsApp For Business](https://developers.facebook.com/docs/whatsapp/business-management-api/using-the-api){:target="_blank"}.
-The goal was to build a campaign management tool to manage the end users of the enterprises on WhatsApp and send automated notifications.
+The goal was to build a campaign management tool to manage the end users of the enterprises on WhatsApp, SMS, email by sending automated notifications.
 
 ### Initial Design
 
