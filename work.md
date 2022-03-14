@@ -14,7 +14,7 @@ I am the hiring manager for this team.
 - **Realtime Analytics**: Currently leading this to provide a real time analytics dashboard
 similar to google analytics. I lead this with 3 devs. Introduced Kafka and
 Lambda Architecture. Maintained 15 Node ElasticSearch Cluster (5B
-documents), Logstash pipelines and Apache Druid (30B events)
+documents), Logstash pipelines and Apache Druid (30B events).
 
 - **SOS Person** : I am involved in almost every production outage. Highly
   experienced in working under stress of outage, providing innovative solutions,
