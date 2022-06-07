@@ -1,6 +1,7 @@
 ---
 title: Pentathlos
 layout: post
+permalink: /pentathlos/
 ---
 
 ## What is Pentathlos?
@@ -26,5 +27,17 @@ I think that being [T-shaped](https://jchyip.medium.com/why-t-shaped-people-e870
 
 Symbols mean a lot to humans. They have the power to influence the behaviour significantly. Making it interesting would nudge me to work on it better.
 
+## Five Personal Values
+
+As of 8 Jun 2022, I suck at humility and selflessness. Trying to improve on them actively.
+
+- **Diligence** : Intensity is the price of excellence. Work hard on goals with no cheat days.
+- **Humility** : Humility is not thinking less of myself, rather thinking of myself less.
+- **Selfless** : Do an act that cannot be repaid and without expectation. That is our impact.
+- **Integrity** : No lies and deceit. Be straightforward in dealings and talks.
+- **Mindful** : Eat clean. Stay active. Stay in the moment. Prioritize well being and sleep.
+
 
 ## Current Experiments
+
+- To be added
