@@ -9,9 +9,9 @@ permalink: /pentathlos/
 > Know thyself <br>
 > \- ancient greek proverb.
 
-I will be trying a series of experiments on myself altering my habits to achieve my goals of a healthy, happy and productive life. I intend to journal my findings, relevant literature, thoughts and the effectiveness of experiments. This is also to understand my motvators and decipher my ambitions.
+I will be trying a series of experiments on myself altering my habits to achieve my goals of a healthy, happy and productive life. I intend to journal my findings, relevant literature, thoughts and the effectiveness of experiments. This is also to understand my motivations and decipher my ambitions.
 
-Trying an experiment on myself would make gamify my life. Every day is a fun activty exploring the world. Who doesn't love a live action role-playing game. 
+Trying an experiment on myself would make gamify my life. Every day is a fun activty. A live action role-playing game. 
 
 ## Why the name Pentathlos?
 Eratosthenes of Cyrene was a Greek polymath: a mathematician, geographer, poet, astronomer, and music theorist. He is a great personal source of inspiration to me. His [experiment](https://en.wikipedia.org/wiki/Eratosthenes#Measurement_of_Earth's_circumference) to find the earth's circumference astounded me when i first read about it in my high school.
