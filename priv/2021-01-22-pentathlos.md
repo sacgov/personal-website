@@ -1,8 +1,8 @@
----
+<!-- ---
 title: Pentathlos
 layout: post
 permalink: /pentathlos/
----
+--- -->
 
 ## What is Pentathlos?
 
