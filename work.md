@@ -5,7 +5,7 @@ permalink: /work/
 ---
 
 You can find me on [Linkedin](https://www.linkedin.com/in/sachingovind/){:target="_blank"} and my [resume](/assets/docs/resume.pdf){:target="_blank"}.
-### Yellow.ai (~4 years)
+### Yellow.ai (~5 years)
 
 #### Jan 2021 – Present - Tech Employee #2, Engineering Manager
 - **Campaign Manager**. Processed more than 2B whatsApp notifications. Lead and grew the team to 10 devs over 2 years. It is now a key business vertical. I am responsible for the all the Backend tech excellence and scalability and partly to Customer NPS, Revenue. Liaising with the Product, UX and other teams to push the product to success.
