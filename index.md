@@ -3,9 +3,10 @@ layout: page
 ---
 👋, I am Sachin Govind.
 
-- I write on tech and thoughts [here](/posts/).
-- A List of books [here](/bookshelf/) I have read.
-- I spend my time [reading](https://www.goodreads.com/user/show/44678772-sachin-govind){:target="_blank"}, [coding](https://github.com/sacgov){:target="_blank"} and sometimes [writing](/posts/).
-- Have a look at my [work](/work/).
+- I build tech products for a living. My [work](/work/).
+- I am curious about tech, economics, psychology, health and nutrition.
+- I am currently learning Piano and Salsa.
+- I love exploring cultures through movies, books and travel. I have been to 8 countries.
+- I spend my time [reading](https://www.goodreads.com/sacgov){:target="_blank"}, [coding](https://github.com/sacgov){:target="_blank"} and [training](https://www.strava.com/athletes/104306221){:target="_blank"}.
 
 Thanks for checking out my blog. Have a great day 🤗
