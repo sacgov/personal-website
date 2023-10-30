@@ -7,7 +7,7 @@ permalink: /work/
 You can find me on [Linkedin](https://www.linkedin.com/in/sachingovind/){:target="_blank"} and my [resume](/assets/docs/resume.pdf){:target="_blank"}.
 
 ### Google (~1 year)
-Working on making Google BigQuery robust and a delight to work with.
+Making Google BigQuery robust and a delight to work with. Learning from other talented folks.
 
 ### Yellow.ai (~5.5 years)
 #### Jan 2021 – Sep 2023 - Tech Employee #2, Tech Lead Manager
