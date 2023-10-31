@@ -6,7 +6,7 @@ permalink: /work/
 
 You can find me on [Linkedin](https://www.linkedin.com/in/sachingovind/){:target="_blank"} and my [resume](/assets/docs/resume.pdf){:target="_blank"}.
 
-### Google (~1 year
+### Google (~1 year)
 #### Sep 2023 - Current, Senior Software Engineer 
 Making Google BigQuery robust and a delight to work with. Learning from other talented folks.
 
