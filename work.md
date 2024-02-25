@@ -32,7 +32,7 @@ documents), Logstash pipelines and Apache Druid (30B events).
 - Building a Campaign Manager and Realtime Analytics leading 6 devs.
 
 #### Jan 2018 - Jan 2020 - Software Development engineer
-- Built almost all of the initial product at yellow.ai. Frontend, Backend and Infrastructure.
+- In of a team of 4 that built almost all of the initial product at yellow.ai. Frontend, Backend and Infrastructure.
 
 ### Epick Bikes (~6 years)
 #### Mar 2016 - Now - Technical Co-Founder
