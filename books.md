@@ -4,7 +4,7 @@ title: Bookshelf
 permalink: /bookshelf/
 ---
 
-A list of books I've found useful. Other books I have read: [GoodReads.](https://www.goodreads.com/user/show/9698257-manas-saloi)
+A list of books I've found useful. Other books I have read: [GoodReads.](https://www.goodreads.com/user/show/44678772-sachin-govind)
 
 + [Essentialism: The Disciplined Pursuit of Less - Greg McKeown](https://www.goodreads.com/book/show/18077875)
 + [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers - Timothy Ferriss](https://www.goodreads.com/book/show/31823677)
