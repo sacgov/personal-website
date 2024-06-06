@@ -6,258 +6,234 @@ permalink: /bookshelf/
 
 A list of books I've found useful. Other books I have read: [GoodReads.](https://www.goodreads.com/user/show/44678772-sachin-govind)
 
-+ [Essentialism: The Disciplined Pursuit of Less - Greg McKeown](https://www.goodreads.com/book/show/18077875)
-+ [Tools of Titans: The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers - Timothy Ferriss](https://www.goodreads.com/book/show/31823677)
-+ [You're Not Listening: What You're Missing and Why It Matters - Kate   Murphy](https://www.goodreads.com/book/show/45892276)
-+ [12 Rules for Life: An Antidote to Chaos - Jordan B. Peterson](https://www.goodreads.com/book/show/30257963)
-+ [Letters from a Stoic - Seneca](https://www.goodreads.com/book/show/97411)
-+ [How Will You Measure Your Life? - Clayton M. Christensen](https://www.goodreads.com/book/show/13425570)
-+ [The Egg - Andy Weir](https://www.goodreads.com/book/show/17563539)
-+ [The Personal MBA: Master the Art of Business - Josh Kaufman](https://www.goodreads.com/book/show/9512985)
-+ [Ikigai: The Japanese Secret to a Long and Happy Life / The Little Book of Lykke / Lagom: The Swedish Art of Balanced Living - Hector Garcia Puigcerver](https://www.goodreads.com/book/show/40534545)
-+ [Principles: Life and Work - Ray Dalio](https://www.goodreads.com/book/show/34536488)
-+ [Oliver Twist - Charles Dickens](https://www.goodreads.com/book/show/18254)
-+ [Can't Hurt Me: Master Your Mind and Defy the Odds - David Goggins](https://www.goodreads.com/book/show/41721428)
-+ [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change - Stephen R. Covey](https://www.goodreads.com/book/show/36072)
-+ [The Storm (#2 Ponni's Beloved - An English Translation Of Kalki Krishnamurthy's Ponniyin Selvan) - Kalki](https://www.goodreads.com/book/show/42198936)
-+ [Ramayana - Vālmīki](https://www.goodreads.com/book/show/141155)
-+ [The Great Mental Models: General Thinking Concepts - Shane Parrish](https://www.goodreads.com/book/show/44245196)
-+ [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you - Rob  Fitzpatrick](https://www.goodreads.com/book/show/52283963)
-+ [THINK STRAIGHT: Change Your Thoughts, Change Your Life - Darius Foroux](https://www.goodreads.com/book/show/36640169)
-+ [Why Zebras Don't Get Ulcers - Robert M. Sapolsky](https://www.goodreads.com/book/show/327)
-+ [Decisive: How to Make Better Choices in Life and Work - Chip Heath](https://www.goodreads.com/book/show/15798078)
-+ [Managing Oneself - Peter F. Drucker](https://www.goodreads.com/book/show/2477223)
-+ [The One Thing: The Surprisingly Simple Truth Behind Extraordinary Results - Gary Keller](https://www.goodreads.com/book/show/16256798)
-+ [How to Keep Your Cool: An Ancient Guide to Anger Management - Seneca](https://www.goodreads.com/book/show/41795421)
-+ [Switch: How to Change Things When Change Is Hard - Chip Heath](https://www.goodreads.com/book/show/6570502)
-+ [The Art of Living: The Classical Manual on Virtue, Happiness and Effectiveness - Epictetus](https://www.goodreads.com/book/show/24618)
-+ [The Bhagavad Gita - Anonymous](https://www.goodreads.com/book/show/8805803)
-+ [Dont Sweat The Small Stuff - Richard Carlson](https://www.goodreads.com/book/show/170543)
-+ [Don't Sweat The Small Stuff Omnibus - Richard Carlson](https://www.goodreads.com/book/show/13565963)
-+ [Getting to Yes: Negotiating Agreement Without Giving In - Roger Fisher](https://www.goodreads.com/book/show/313605)
-+ [Lateral Thinking - Edward de Bono](https://www.goodreads.com/book/show/829616)
-+ [Pandolfini's Ultimate Guide to Chess - Bruce Pandolfini](https://www.goodreads.com/book/show/360163)
-+ [Introduction To Algorithms - Thomas H. Cormen](https://www.goodreads.com/book/show/9671654)
-+ [Mastery - Robert Greene](https://www.goodreads.com/book/show/13589182)
-+ [The Word Is Murder (Hawthorne and Horowitz Mystery, #1) - Anthony Horowitz](https://www.goodreads.com/book/show/33797957)
-+ [Peak: Secrets from the New Science of Expertise - K. Anders Ericsson](https://www.goodreads.com/book/show/26312997)
-+ [The Dip: A Little Book That Teaches You When to Quit (and When to Stick) - Seth Godin](https://www.goodreads.com/book/show/324748)
-+ [The Meditations of Marcus Aurelius - Marcus Aurelius](https://www.goodreads.com/book/show/28139847)
-+ [No Ordinary Genius: The Illustrated Richard Feynman - Richard P. Feynman](https://www.goodreads.com/book/show/6996)
-+ [Let the Right One In - John Ajvide Lindqvist](https://www.goodreads.com/book/show/943402)
-+ [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life - Mark Manson](https://www.goodreads.com/book/show/28257707)
-+ [Peace of Mind - Seneca](https://www.goodreads.com/book/show/33597739)
-+ [The Golden Sayings of Epictetus - Epictetus](https://www.goodreads.com/book/show/18900026)
-+ [The Good Life Handbook: Epictetus' Stoic Classic Enchiridion - Chuck Chakrapani](https://www.goodreads.com/book/show/33302469)
-+ [Lying - Sam Harris](https://www.goodreads.com/book/show/18869177)
-+ [Poke the Box - Seth Godin](https://www.goodreads.com/book/show/10368067)
-+ [Nikola Tesla: Imagination and the Man That Invented the 20th Century - Sean Patrick](https://www.goodreads.com/book/show/17835351)
-+ [The Invisible Man - H.G. Wells](https://www.goodreads.com/book/show/31180569)
-+ [The Green Mile - Stephen King](https://www.goodreads.com/book/show/2266079)
-+ [The Shining - Stephen King](https://www.goodreads.com/book/show/11588)
-+ [Free Will - Sam Harris](https://www.goodreads.com/book/show/13259270)
-+ [The Monk Who Sold His Ferrari - Robin S. Sharma](https://www.goodreads.com/book/show/43882)
-+ [The Alchemist - Paulo Coelho](https://www.goodreads.com/book/show/865)
-+ [Harry Potter and the Sorcerer's Stone (Harry Potter, #1) - J.K. Rowling](https://www.goodreads.com/book/show/3)
-+ [Rich Dad, Poor Dad - Robert T. Kiyosaki](https://www.goodreads.com/book/show/69571)
-+ [The Immortals of Meluha (Shiva Trilogy, #1) - Amish Tripathi](https://www.goodreads.com/book/show/7913305)
-+ [1984 - George Orwell](https://www.goodreads.com/book/show/5470)
-+ [2 States: The Story of My Marriage - Chetan Bhagat](https://www.goodreads.com/book/show/6969361)
-+ [Stumbling on Happiness - Daniel Todd Gilbert](https://www.goodreads.com/book/show/56627)
-+ [Gone Girl - Gillian Flynn](https://www.goodreads.com/book/show/19288043)
-+ [Chicken Soup for the Soul - Jack Canfield](https://www.goodreads.com/book/show/801178)
-+ [One Up On Wall Street: How to Use What You Already Know to Make Money in the Market - Peter Lynch](https://www.goodreads.com/book/show/762462)
-+ [When Things Fall Apart: Heart Advice for Difficult Times - Pema Chödrön](https://www.goodreads.com/book/show/687278)
-+ [The Man Who Mistook His Wife for a Hat and Other Clinical Tales - Oliver Sacks](https://www.goodreads.com/book/show/63697)
-+ [Atlas Shrugged - Ayn Rand](https://www.goodreads.com/book/show/662)
-+ [The Miracle of Mindfulness: An Introduction to the Practice of Meditation - Thich Nhat Hanh](https://www.goodreads.com/book/show/95747)
-+ [Mystic River - Dennis Lehane](https://www.goodreads.com/book/show/21671)
-+ [The Old Man and the Sea - Ernest Hemingway](https://www.goodreads.com/book/show/2165)
-+ [Murder on the Orient Express - Agatha Christie](https://www.goodreads.com/book/show/16304)
-+ [The Prince - Niccolò Machiavelli](https://www.goodreads.com/book/show/28862)
-+ [Games Indians Play: Why We Are the Way We Are - V. Raghunathan](https://www.goodreads.com/book/show/955110)
-+ [Sleeping Dogs (Butcher's Boy, #2) - Thomas Perry](https://www.goodreads.com/book/show/234339)
-+ [The Secret History - Donna Tartt](https://www.goodreads.com/book/show/29044)
-+ [Night  (The Night Trilogy, #1) - Elie Wiesel](https://www.goodreads.com/book/show/1617)
-+ [Mein Kampf - Adolf Hitler](https://www.goodreads.com/book/show/54270)
-+ [The Origin of Species - Charles Darwin](https://www.goodreads.com/book/show/22463)
-+ [Fall of Giants (The Century Trilogy, #1) - Ken Follett](https://www.goodreads.com/book/show/7315573)
-+ [The Orphan Master's Son - Adam Johnson](https://www.goodreads.com/book/show/11529868)
-+ [Snow Flower and the Secret Fan - Lisa See](https://www.goodreads.com/book/show/1103)
-+ [All the Light We Cannot See - Anthony Doerr](https://www.goodreads.com/book/show/18143977)
-+ [A Book of Five Rings: The Classic Guide to Strategy - Miyamoto Musashi](https://www.goodreads.com/book/show/867247)
-+ [In Cold Blood - Truman Capote](https://www.goodreads.com/book/show/168642)
-+ [The Pillars of the Earth (Kingsbridge, #1) - Ken Follett](https://www.goodreads.com/book/show/5043)
-+ [World Without End (Kingsbridge, #2) - Ken Follett](https://www.goodreads.com/book/show/5064)
-+ [A Little Life - Hanya Yanagihara](https://www.goodreads.com/book/show/22822858)
-+ [The Butcher's Boy (Butcher's Boy, #1) - Thomas Perry](https://www.goodreads.com/book/show/82966)
-+ [The Power of Now: A Guide to Spiritual Enlightenment - Eckhart Tolle](https://www.goodreads.com/book/show/6708)
-+ [It - Stephen King](https://www.goodreads.com/book/show/830502)
-+ [Much Ado About Nothing - William Shakespeare](https://www.goodreads.com/book/show/12957)
-+ [All's Well That Ends Well - William Shakespeare](https://www.goodreads.com/book/show/104790)
-+ [Twelfth Night - William Shakespeare](https://www.goodreads.com/book/show/1625)
-+ [The Tainted Throne (Empire of the Moghul, #4) - Alex Rutherford](https://www.goodreads.com/book/show/13649887)
-+ [The Serpent's Tooth (Empire of the Moghul, #5) - Alex Rutherford](https://www.goodreads.com/book/show/17907199)
-+ [Traitors in the Shadows (Empire of the Moghul, #6) - Alex Rutherford](https://www.goodreads.com/book/show/24485959)
-+ [Raiders from the North (Empire of the Moghul, #1) - Alex Rutherford](https://www.goodreads.com/book/show/6764152)
-+ [Ruler of the World (Empire of the Moghul, #3) - Alex Rutherford](https://www.goodreads.com/book/show/13167048)
-+ [Brothers At War (Empire of the Moghul, #2) - Alex Rutherford](https://www.goodreads.com/book/show/7505410)
-+ [Business Adventures - John Brooks](https://www.goodreads.com/book/show/4191136)
-+ [Future Shock - Alvin Toffler](https://www.goodreads.com/book/show/2072181)
-+ [Enchantment: The Art of Changing Hearts, Minds, and Actions - Guy Kawasaki](https://www.goodreads.com/book/show/9895917)
-+ [The Power of Positive Thinking - Norman Vincent Peale](https://www.goodreads.com/book/show/82088)
-+ [IIM Ahmedabad Business Books: Day to Day Economics - Satish Y. Deodhar](https://www.goodreads.com/book/show/16008852)
-+ [Goals!: How to Get Everything You Want Faster Than You Ever Thought Possible - Brian Tracy](https://www.goodreads.com/book/show/113935)
-+ [Wiseguy - Nicholas Pileggi](https://www.goodreads.com/book/show/158141)
-+ [Everyone Has A Story - Savi Sharma](https://www.goodreads.com/book/show/30817225)
-+ [Predictably Irrational: The Hidden Forces That Shape Our Decisions - Dan Ariely](https://www.goodreads.com/book/show/1713426)
-+ [Stumbling on Happiness - Daniel Todd Gilbert](https://www.goodreads.com/book/show/587792)
-+ [The Art of War - Sun Tzu](https://www.goodreads.com/book/show/10534)
-+ [The Godfather (The Godfather, #1) - Mario Puzo](https://www.goodreads.com/book/show/22034)
-+ [xkcd: Time - Randall Munroe](https://www.goodreads.com/book/show/25948010)
-+ [Fade Away (Myron Bolitar, #3) - Harlan Coben](https://www.goodreads.com/book/show/272607)
-+ [Bag of Bones - Stephen King](https://www.goodreads.com/book/show/10589)
-+ [The Count of Monte Cristo - Alexandre Dumas](https://www.goodreads.com/book/show/7126)
-+ [Life of Pi - Yann Martel](https://www.goodreads.com/book/show/4214)
-+ [Siddhartha - Hermann Hesse](https://www.goodreads.com/book/show/52036)
-+ [The Call of the Wild - Jack London](https://www.goodreads.com/book/show/1079345)
-+ [Animal Farm - George Orwell](https://www.goodreads.com/book/show/7613)
-+ [The Willpower Instinct: How Self-Control Works, Why It Matters, and What You Can Do to Get More of It - Kelly McGonigal](https://www.goodreads.com/book/show/10865206)
-+ [Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character - Richard P. Feynman](https://www.goodreads.com/book/show/5544)
-+ [The Poet (Jack McEvoy, #1; Harry Bosch Universe, #5) - Michael Connelly](https://www.goodreads.com/book/show/32506)
-+ [Freakonomics: A Rogue Economist Explores the Hidden Side of Everything - Steven D. Levitt](https://www.goodreads.com/book/show/1202)
-+ [I Too Had a Love Story - Ravinder Singh](https://www.goodreads.com/book/show/7977973)
-+ [The 48 Laws of Power - Robert Greene](https://www.goodreads.com/book/show/1303)
-+ [Death in the Clouds (Hercule Poirot, #12) - Agatha Christie](https://www.goodreads.com/book/show/16326)
-+ [As You Think - James Allen](https://www.goodreads.com/book/show/13482)
-+ [The Giver (The Giver, #1) - Lois Lowry](https://www.goodreads.com/book/show/3636)
-+ [Paper Towns - John Green](https://www.goodreads.com/book/show/6442769)
-+ [The Adventures of Tom Sawyer and Hucleberry Finn: Illustrated - Mark Twain](https://www.goodreads.com/book/show/28202405)
-+ [As a Man Thinketh - James Allen](https://www.goodreads.com/book/show/81959)
-+ [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets - Nassim Nicholas Taleb](https://www.goodreads.com/book/show/38315)
-+ [Unlimited Memory: How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Mental Mastery Book 1) - Kevin Horsley](https://www.goodreads.com/book/show/20958539)
-+ [A Tale of Two Cities - Charles Dickens](https://www.goodreads.com/book/show/1953)
-+ [Hard Times - Charles Dickens](https://www.goodreads.com/book/show/5344)
-+ [A Christmas Carol - Charles Dickens](https://www.goodreads.com/book/show/5326)
-+ [The Taming of the Shrew - William Shakespeare](https://www.goodreads.com/book/show/47021)
-+ [The Two Gentlemen of Verona - William Shakespeare](https://www.goodreads.com/book/show/82346)
-+ [The Adventures of Huckleberry Finn - Mark Twain](https://www.goodreads.com/book/show/2956)
-+ [Macbeth - William Shakespeare](https://www.goodreads.com/book/show/8852)
-+ [A Midsummer Night's Dream - William Shakespeare](https://www.goodreads.com/book/show/1622)
-+ [King Lear - William Shakespeare](https://www.goodreads.com/book/show/12938)
-+ [Othello - William Shakespeare](https://www.goodreads.com/book/show/12996)
-+ [Romeo and Juliet - William Shakespeare](https://www.goodreads.com/book/show/18135)
-+ [Hamlet - William Shakespeare](https://www.goodreads.com/book/show/1420)
-+ [And Then There Were None - Agatha Christie](https://www.goodreads.com/book/show/16299)
-+ [Ignore Everybody: and 39 Other Keys to Creativity - Hugh MacLeod](https://www.goodreads.com/book/show/6162567)
-+ [The Golden Compass - Philip Pullman](https://www.goodreads.com/book/show/394363)
-+ [Who Moved My Cheese? - Spencer Johnson](https://www.goodreads.com/book/show/4894)
-+ [A Scandal in Bohemia (The Adventures of Sherlock Holmes, #1) - Ronald  Holt](https://www.goodreads.com/book/show/1848444)
-+ [How to Win Friends and Influence People - Dale Carnegie](https://www.goodreads.com/book/show/4865)
-+ [Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! - Tony Robbins](https://www.goodreads.com/book/show/180116)
-+ [Quiet: The Power of Introverts in a World That Can't Stop Talking - Susan Cain](https://www.goodreads.com/book/show/8520610)
-+ [Thinking, Fast and Slow - Daniel Kahneman](https://www.goodreads.com/book/show/11468377)
-+ [The Power of Habit: Why We Do What We Do in Life and Business - Charles Duhigg](https://www.goodreads.com/book/show/12609433)
-+ [Influence: The Psychology of Persuasion - Robert B. Cialdini](https://www.goodreads.com/book/show/28815)
-+ [The Magic of Thinking Big - David J. Schwartz](https://www.goodreads.com/book/show/759945)
-+ [The Richest Man in Babylon - George S. Clason](https://www.goodreads.com/book/show/1052)
-+ [The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1) - Douglas Adams](https://www.goodreads.com/book/show/11)
-+ [The Devotion of Suspect X (Detective Galileo #1) - Keigo Higashino](https://www.goodreads.com/book/show/8686068)
-+ [Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time - Brian Tracy](https://www.goodreads.com/book/show/95887)
-+ [Connect The Dots - Rashmi Bansal](https://www.goodreads.com/book/show/8142431)
-+ [Who Will Cry When You Die? - Robin S. Sharma](https://www.goodreads.com/book/show/289029)
-+ [Five Little Pigs (Hercule Poirot, #25) - Agatha Christie](https://www.goodreads.com/book/show/121648)
-+ [No Excuses!: The Power of Self-Discipline - Brian Tracy](https://www.goodreads.com/book/show/8112865)
-+ [No, David! - David Shannon](https://www.goodreads.com/book/show/1062516)
-+ [Hercule Poirot's Christmas (Hercule Poirot, #20) - Agatha Christie](https://www.goodreads.com/book/show/16349)
-+ [Outliers: The Story of Success - Malcolm Gladwell](https://www.goodreads.com/book/show/3228917)
-+ [Moby-Dick or, the Whale - Herman Melville](https://www.goodreads.com/book/show/153747)
-+ [Ibm Pc Assembly Language and Programming - Abel](https://www.goodreads.com/book/show/30758426)
-+ [The Power of Your Subconscious Mind - Joseph Murphy](https://www.goodreads.com/book/show/68984)
-+ [Half Girlfriend - Chetan Bhagat](https://www.goodreads.com/book/show/22874559)
-+ [Five Point Someone: What Not to Do at IIT - Chetan Bhagat](https://www.goodreads.com/book/show/105576)
-+ [The 3 Mistakes of My Life - Chetan Bhagat](https://www.goodreads.com/book/show/3320520)
-+ [Death on the Nile (Hercule Poirot, #18) - Agatha Christie](https://www.goodreads.com/book/show/131359)
-+ [Sidney Sheldon's Mistress of the Game - Tilly Bagshawe](https://www.goodreads.com/book/show/6578830)
-+ [Bloodline - Sidney Sheldon](https://www.goodreads.com/book/show/300225)
-+ [Mahabharata - C. Rajagopalachari](https://www.goodreads.com/book/show/118252)
-+ [How Rich People Think - Steve Siebold](https://www.goodreads.com/book/show/9078646)
-+ [Around the World in Eighty Days - Jules Verne](https://www.goodreads.com/book/show/54479)
-+ [The Millionaire Next Door: The Surprising Secrets of America's Wealthy - Thomas J. Stanley](https://www.goodreads.com/book/show/998)
-+ [Stay Hungry Stay Foolish - Rashmi Bansal](https://www.goodreads.com/book/show/4765642)
-+ [Alice in Wonderland - Jane Carruth](https://www.goodreads.com/book/show/13023)
-+ [How to Stop Worrying and Start Living - Dale Carnegie](https://www.goodreads.com/book/show/4866)
-+ [Appointment with Death (Hercule Poirot, #19) - Agatha Christie](https://www.goodreads.com/book/show/16363)
-+ [Peril at End House (Hercule Poirot, #8) - Agatha Christie](https://www.goodreads.com/book/show/16424)
-+ [The Secret of the Nagas (Shiva Trilogy #2) - Amish Tripathi](https://www.goodreads.com/book/show/11827808)
-+ [The Oath of the Vayuputras (Shiva Trilogy, #3) - Amish Tripathi](https://www.goodreads.com/book/show/12820793)
-+ [Scion of Ikshvaku (Ram Chandra #1) - Amish Tripathi](https://www.goodreads.com/book/show/24709327)
-+ [The Complete Sherlock Holmes - Arthur Conan Doyle](https://www.goodreads.com/book/show/188572)
-+ [A Study in Scarlet (Sherlock Holmes, #1) - Arthur Conan Doyle](https://www.goodreads.com/book/show/102868)
-+ [The Memoirs of Sherlock Holmes (Sherlock Holmes, #4) - Arthur Conan Doyle](https://www.goodreads.com/book/show/194373)
-+ [The Hound of the Baskervilles (Sherlock Holmes, #5) - Arthur Conan Doyle](https://www.goodreads.com/book/show/8921)
-+ [The Sign of Four (Sherlock Holmes, #2) - Arthur Conan Doyle](https://www.goodreads.com/book/show/608474)
-+ [The Valley of Fear (Sherlock Holmes, #7) - Arthur Conan Doyle](https://www.goodreads.com/book/show/736131)
-+ [Gitanjali - Rabindranath Tagore](https://www.goodreads.com/book/show/66414)
-+ [Five Go to Smuggler's Top (Famous Five, #4) - Enid Blyton](https://www.goodreads.com/book/show/17478)
-+ [Thumbelina - Hans Christian Andersen](https://www.goodreads.com/book/show/563757)
-+ [Treasure Island - Robert Louis Stevenson](https://www.goodreads.com/book/show/295)
-+ [Dr. Jekyll and Mr. Hyde - Robert Louis Stevenson](https://www.goodreads.com/book/show/51496)
-+ [Pinocchio - Carlo Collodi](https://www.goodreads.com/book/show/180617)
-+ [Charlie and the Chocolate Factory (Charlie Bucket, #1) - Roald Dahl](https://www.goodreads.com/book/show/6310)
-+ [Gulliver's Travels: Travels into Several Remote Nations of the World. - Jonathan Swift](https://www.goodreads.com/book/show/7733)
-+ [The Swiss Family Robinson - Johann David Wyss](https://www.goodreads.com/book/show/62111)
-+ [Harry Potter and the Deathly Hallows (Harry Potter, #7) - J.K. Rowling](https://www.goodreads.com/book/show/136251)
-+ [Harry Potter and the Half-Blood Prince (Harry Potter, #6) - J.K. Rowling](https://www.goodreads.com/book/show/1)
-+ [Harry Potter and the Order of the Phoenix (Harry Potter, #5) - J.K. Rowling](https://www.goodreads.com/book/show/2)
-+ [Harry Potter and the Goblet of Fire (Harry Potter, #4) - J.K. Rowling](https://www.goodreads.com/book/show/6)
-+ [Harry Potter and the Prisoner of Azkaban (Harry Potter, #3) - J.K. Rowling](https://www.goodreads.com/book/show/5)
-+ [Harry Potter and the Chamber of Secrets (Harry Potter, #2) - J.K. Rowling](https://www.goodreads.com/book/show/15881)
-+ [Five on a Treasure Island (Famous Five, #1) - Enid Blyton](https://www.goodreads.com/book/show/17488)
-+ [Three Cheers, Secret Seven (The Secret Seven, #8) - Enid Blyton](https://www.goodreads.com/book/show/124678)
-+ [Go Ahead Secret Seven (The Secret Seven, #5) - Enid Blyton](https://www.goodreads.com/book/show/124684)
-+ [The Secret Seven Adventure (The Secret Seven, #2) - Enid Blyton](https://www.goodreads.com/book/show/124675)
-+ [The Complete Grimm's Fairy Tales - Jacob Grimm](https://www.goodreads.com/book/show/22917)
-+ [Master of the Game - Sidney Sheldon](https://www.goodreads.com/book/show/43330)
-+ [Secret Seven Win Through (The Secret Seven, #7) - Enid Blyton](https://www.goodreads.com/book/show/124674)
-+ [The Bhagavad Gita - Krishna-Dwaipayana Vyasa](https://www.goodreads.com/book/show/99944)
-+ [Rage of Angels - Sidney Sheldon](https://www.goodreads.com/book/show/43328)
-+ [The Merry Adventures of Robin Hood - Howard Pyle](https://www.goodreads.com/book/show/93007)
-+ [The Secret Seven (The Secret Seven, #1) - Enid Blyton](https://www.goodreads.com/book/show/17496)
-+ [Murder in Mesopotamia (Hercule Poirot #14) - Agatha Christie](https://www.goodreads.com/book/show/16360)
-+ [The Invisible Man - H.G. Wells](https://www.goodreads.com/book/show/17184)
-+ [Tell Me Your Dreams - Sidney Sheldon](https://www.goodreads.com/book/show/43326)
-+ [The Three Musketeers (The D'Artagnan Romances, #1) - Alexandre Dumas](https://www.goodreads.com/book/show/7190)
-+ [The Adventures of Sherlock Holmes (Sherlock Holmes, #3) - Arthur Conan Doyle](https://www.goodreads.com/book/show/3590)
-+ [Five on Kirrin Island Again (Famous Five, #6) - Enid Blyton](https://www.goodreads.com/book/show/557184)
-+ [The Paradox of Choice: Why More Is Less - Barry Schwartz](https://www.goodreads.com/book/show/10639)
-+ [20000 Leagues Under the Sea - Jules Verne](https://www.goodreads.com/book/show/834333)
-+ [Five Run Away Together (Famous Five, #3) - Enid Blyton](https://www.goodreads.com/book/show/74997)
-+ [Five Go Adventuring Again (Famous Five, #2) - Enid Blyton](https://www.goodreads.com/book/show/17487)
-+ [The Murder of Roger Ackroyd (Hercule Poirot, #4) - Agatha Christie](https://www.goodreads.com/book/show/16328)
-+ [Well Done, Secret Seven (The Secret Seven, #3) - Enid Blyton](https://www.goodreads.com/book/show/124671)
-+ [Kidnapped (David Balfour, #1) - Robert Louis Stevenson](https://www.goodreads.com/book/show/325128)
-+ [The Complete Fairy Tales - Hans Christian Andersen](https://www.goodreads.com/book/show/46306)
-+ [Secret Seven on the Trail (The Secret Seven, #4) - Enid Blyton](https://www.goodreads.com/book/show/124692)
-+ [Evil Under the Sun (Hercule Poirot, #24) - Agatha Christie](https://www.goodreads.com/book/show/16305)
-+ [Elephants Can Remember (Hercule Poirot, #42) - Agatha Christie](https://www.goodreads.com/book/show/148584)
-+ [Cards on the Table (Hercule Poirot, #15) - Agatha Christie](https://www.goodreads.com/book/show/16297)
-+ [Five Get Into Trouble (Famous Five, #8) - Enid Blyton](https://www.goodreads.com/book/show/557220)
-+ [The Arabian Nights - Anonymous](https://www.goodreads.com/book/show/93101)
-+ [You Can Win: A Step by Step Tool for Top Achievers - Shiv Khera](https://www.goodreads.com/book/show/714711)
-+ [The A.B.C. Murders (Hercule Poirot, #13) - Agatha Christie](https://www.goodreads.com/book/show/16322)
-+ [The Murder on the Links - Agatha Christie](https://www.goodreads.com/book/show/639787)
-+ [Secret Seven Mystery (The Secret Seven, #9) - Enid Blyton](https://www.goodreads.com/book/show/124682)
-+ [Robinson Crusoe (Robinson Crusoe, #1) - Daniel Defoe](https://www.goodreads.com/book/show/2932)
-+ [Investing For Dummies - Eric Tyson](https://www.goodreads.com/book/show/171067)
-+ [Five Go to Mystery Moor (The Famous Five, #13) - Enid Blyton](https://www.goodreads.com/book/show/17483)
-+ [Five Go Off to Camp (Famous Five, #7) - Enid Blyton](https://www.goodreads.com/book/show/557188)
-+ [Five Go Off in a Caravan (Famous Five, #5) - Enid Blyton](https://www.goodreads.com/book/show/74996)
-+ [The Prince of Thieves (Tales of Robin Hood by Alexandre Dumas #1) - Alexandre Dumas](https://www.goodreads.com/book/show/388223)
-+ [Birbal The Wise (Amar Chitra Katha) - Anant Pai](https://www.goodreads.com/book/show/332881)
-+ [The Mysterious Affair at Styles (Hercule Poirot, #1) - Agatha Christie](https://www.goodreads.com/book/show/16343)
-+ [Rework - Jason Fried](https://www.goodreads.com/book/show/6732019)
-+ [The 4-Hour Workweek - Timothy Ferriss](https://www.goodreads.com/book/show/368593)
-+ [Think and Grow Rich: The Landmark Bestseller Now Revised and Updated for the 21st Century - Napoleon Hill](https://www.goodreads.com/book/show/1005)
-+ [The Tipping Point: How Little Things Can Make a Big Difference - Malcolm Gladwell](https://www.goodreads.com/book/show/2612)
-+ [The Autobiography of Benjamin Franklin - Benjamin Franklin](https://www.goodreads.com/book/show/52309)
+## Fiction
+
+
+
++ [The Complete Sherlock Holmes - Arthur Conan Doyle](https://www.goodreads.com/user/show/188572)
+
++ [The Green Mile - Stephen King](https://www.goodreads.com/user/show/2266079)
+
++ [The Brothers Karamazov - Fyodor Dostoevsky](https://www.goodreads.com/user/show/4934)
+
++ [The Count of Monte Cristo - Alexandre Dumas](https://www.goodreads.com/user/show/7126)
+
++ [And Then There Were None - Agatha Christie](https://www.goodreads.com/user/show/16299)
+
++ [Shantaram - Gregory David Roberts](https://www.goodreads.com/user/show/33600)
+
++ [Crime and Punishment - Fyodor Dostoevsky](https://www.goodreads.com/user/show/7144)
+
++ [The Murder of Roger Ackroyd (Hercule Poirot, #4) - Agatha Christie](https://www.goodreads.com/user/show/16328)
+
++ [The Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1) - Douglas Adams](https://www.goodreads.com/user/show/11)
+
++ [Murder on the Orient Express (Hercule Poirot, #10) - Agatha Christie](https://www.goodreads.com/user/show/16304)
+
++ [1984 - George Orwell](https://www.goodreads.com/user/show/5470)
+
++ [The Three Musketeers - Alexandre Dumas](https://www.goodreads.com/user/show/7190)
+
++ [The Man Who Mistook His Wife for a Hat and Other Clinical Tales - Oliver Sacks](https://www.goodreads.com/user/show/63697)
+
++ [Animal Farm - George Orwell](https://www.goodreads.com/user/show/7613)
+
++ [Midnight’s Children - Salman Rushdie](https://www.goodreads.com/user/show/14836)
+
++ [The Call of the Wild - Jack London](https://www.goodreads.com/user/show/1079345)
+
++ [Oliver Twist - Charles Dickens](https://www.goodreads.com/user/show/18254)
+
++ [Treasure Island - Robert Louis Stevenson](https://www.goodreads.com/user/show/295)
+
+
+
+## History
+
++ [https://www.goodreads.com/series/64221 Alex ruther fold -](https://www.goodreads.com/user/show/)
+
++ [India After Gandhi: The History of the World's Largest Democracy - Ramachandra Guha](https://www.goodreads.com/user/show/356824)
+
++ [Wolf Hall / Bring Up the Bodies (Thomas Cromwell, #1-2) - Hilary Mantel](https://www.goodreads.com/user/show/16117978)
+
++ [Silk Roads - Peter Frankopan](https://www.goodreads.com/user/show/25812847)
+
++ [Wolf Hall (Thomas Cromwell, #1) - Hilary Mantel](https://www.goodreads.com/user/show/6101138)
+
++ [The Anarchy: The East India Company, Corporate Violence, and the Pillage of an Empire - William Dalrymple](https://www.goodreads.com/user/show/42972023)
+
+## Understanding of the World
+
++ [Sapiens: A Brief History of Humankind - Yuval Noah Harari](https://www.goodreads.com/user/show/23692271)
+
++ [Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think - Hans Rosling](https://www.goodreads.com/user/show/34890015)
+
++ [The Complete Persepolis - Marjane Satrapi](https://www.goodreads.com/user/show/991197)
+
++ [Evicted: Poverty and Profit in the American City - Matthew Desmond](https://www.goodreads.com/user/show/25852784)
+
++ [When Breath Becomes Air - Paul Kalanithi](https://www.goodreads.com/user/show/25899336)
+
+## Computer Science
+
++ [Introduction to Algorithms - Cormen](https://www.goodreads.com/user/show/9671654)
+
++ [Designing Data-Intensive Applications - Martin Kleppmann](https://www.goodreads.com/user/show/23463279)
+
++ [Code: The Hidden Language of Computer Hardware and Software - Charles Petzold](https://www.goodreads.com/user/show/44882)
+
+## Health
+
++ [Being Mortal: Medicine and What Matters in the End - Atul Gawande](https://www.goodreads.com/user/show/20696006)
+
++ [Behave: The Biology of Humans at Our Best and Worst - Robert M. Sapolsky](https://www.goodreads.com/user/show/31170723)
+
++ [Outlive: The Science and Art of Longevity - Peter Attia](https://www.goodreads.com/user/show/61153739)
+
++ [Why We Sleep: Unlocking the Power of Sleep and Dreams - Matthew Walker](https://www.goodreads.com/user/show/34466963)
+
++ [The Obesity Code: Unlocking the Secrets of Weight Loss - Jason Fung](https://www.goodreads.com/user/show/24945404)
+
++ [The Gene: An Intimate History - Siddhartha Mukherjee](https://www.goodreads.com/user/show/27276428)
+
++ [The Emperor of All Maladies: A Biography of Cancer - Siddhartha Mukherjee](https://www.goodreads.com/user/show/7170627)
+
++ [The Body: A Guide for Occupants - Bill Bryson](https://www.goodreads.com/user/show/43582376)
+
++ [The Song of the Cell: An Exploration of Medicine and the New Human - Siddhartha Mukherjee](https://www.goodreads.com/user/show/60321392)
+
++ [Why Zebras Don't Get Ulcers - Robert M. Sapolsky](https://www.goodreads.com/user/show/327)
+
+## Behaviour & Psychology
+
++ [This Is Water: Some Thoughts, Delivered on a Significant Occasion, about Living a Compassionate Life - David Foster Wallace](https://www.goodreads.com/user/show/5986375)
+
++ [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones - James Clear](https://www.goodreads.com/user/show/40121378)
+
++ [The Power of Habit: Why We Do What We Do in Life and Business - Charles Duhigg](https://www.goodreads.com/user/show/12609433)
+
++ [The Psychology of Money - Morgan Housel](https://www.goodreads.com/user/show/41881472)
+
++ [Influence: The Psychology of Persuasion - Robert B. Cialdini](https://www.goodreads.com/user/show/28815)
+
++ [Thinking, Fast and Slow - Daniel Kahneman](https://www.goodreads.com/user/show/11468377)
+
++ [Predictably Irrational: The Hidden Forces That Shape Our Decisions - Dan Ariely](https://www.goodreads.com/user/show/1713426)
+
++ [Pre-Suasion: A Revolutionary Way to Influence and Persuade - Robert B. Cialdini](https://www.goodreads.com/user/show/29238799)
+
++ [Are Your Lights On?: How to Figure Out What the Problem Really Is - Donald C. Gause](https://www.goodreads.com/user/show/1044831)
+
++ [The Elephant in the Brain: Hidden Motives in Everyday Life - Kevin Simler](https://www.goodreads.com/user/show/28820444)
+
++ [Dopamine Nation: Finding Balance in the Age of Indulgence - Anna Lembke](https://www.goodreads.com/user/show/55723020)
+
++ [The Paradox of Choice: Why More Is Less - Barry Schwartz](https://www.goodreads.com/user/show/10639)
+
++ [Stumbling on Happiness - Daniel Todd Gilbert](https://www.goodreads.com/user/show/587792)
+
+
+
+## Philosophy & Mindfulness
+
++ [The Egg - Andy Weir](https://www.goodreads.com/user/show/17563539)
+
++ [Man’s Search for Meaning - Viktor E. Frankl](https://www.goodreads.com/user/show/4069)
+
++ [The Meditations of Marcus Aurelius - Marcus Aurelius](https://www.goodreads.com/user/show/28139847)
+
++ [The Miracle of Mindfulness: An Introduction to the Practice of Meditation - Thich Nhat Hanh](https://www.goodreads.com/user/show/95747)
+
++ [When Things Fall Apart: Heart Advice for Difficult Times - Pema Chödrön](https://www.goodreads.com/user/show/687278)
+
+## Personal Development
+
+
+
++ [Principles: Life and Work - Ray Dalio](https://www.goodreads.com/user/show/34536488)
+
++ [The Personal MBA: A World-Class Business Education in a Single Volume - Josh Kaufman](https://www.goodreads.com/user/show/13117020)
+
++ [The Power of Your Subconscious Mind - Joseph Murphy](https://www.goodreads.com/user/show/68984)
+
++ [Think and Grow Rich - Napoleon Hill](https://www.goodreads.com/user/show/1005)
+
++ [The Comfort Book - Matt Haig](https://www.goodreads.com/user/show/55825273)
+
++ [Managing Oneself (Harvard Business Review Classics) - Peter F. Drucker](https://www.goodreads.com/user/show/2477223)
+
++ [Chatter: The Voice in Our Head, Why It Matters, and How to Harness It - Ethan Kross](https://www.goodreads.com/user/show/53330118)
+
++ [Who Moved My Cheese? - Spencer Johnson](https://www.goodreads.com/user/show/4894)
+
++ [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life - Mark Manson](https://www.goodreads.com/user/show/28257707)
+
++ [Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead - Brené Brown](https://www.goodreads.com/user/show/13588356)
+
++ [The Definitive Book of Body Language - Allan Pease](https://www.goodreads.com/user/show/262731)
+
++ [Four Thousand Weeks: Time Management for Mortals - Oliver Burkeman](https://www.goodreads.com/user/show/54785515)
+
++ [The 48 Laws of Power - Robert Greene](https://www.goodreads.com/user/show/1303)
+
++ [What Got You Here Won't Get You There - Marshall Goldsmith](https://www.goodreads.com/user/show/84525)
+
++ [The Richest Man in Babylon - George S. Clason](https://www.goodreads.com/user/show/1052)
+
++ [The Alchemist - Paulo Coelho](https://www.goodreads.com/user/show/865)
+
+
+
+## Economics
+
++ [IIM Ahmedabad Business Books: Day to Day Economics - Satish Y. Deodhar](https://www.goodreads.com/user/show/16008852)
+
++ [Good Economics for Hard Times: Better Answers to Our Biggest Problems - Abhijit V. Banerjee](https://www.goodreads.com/user/show/48507288)
+
++ [Capital in the Twenty First Century - Thomas Piketty](https://www.goodreads.com/user/show/18736925)
+
++ [Scarcity: Why Having Too Little Means So Much - Sendhil Mullainathan](https://www.goodreads.com/user/show/17286670)
+
+
+
+## Non Fiction
+
++ [The Bhagavad Gita - Krishna-Dwaipayana Vyasa](https://www.goodreads.com/user/show/99944)
+
++ [Outliers: The Story of Success - Malcolm Gladwell](https://www.goodreads.com/user/show/3228917)
+
++ [Liquid Rules: The Delightful and Dangerous Substances That Flow Through Our Lives - Mark Miodownik](https://www.goodreads.com/user/show/35721140)
+
++ [Stuff Matters: Exploring the Marvelous Materials That Shape Our Man-Made World - Mark Miodownik](https://www.goodreads.com/user/show/18222843)
+
++ [The Selfish Gene - Richard Dawkins](https://www.goodreads.com/user/show/61535)
+
++ [The Black Swan: The Impact of the Highly Improbable - Nassim Nicholas Taleb](https://www.goodreads.com/user/show/242472)
+
++ [Skin in the Game: The Hidden Asymmetries in Daily Life - Nassim Nicholas Taleb](https://www.goodreads.com/user/show/36064445)
+
++ [Antifragile: Things That Gain from Disorder - Nassim Nicholas Taleb](https://www.goodreads.com/user/show/13530973)
+
++ [Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character - Richard P. Feynman](https://www.goodreads.com/user/show/5544)
+
++ [Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets (Incerto) - Nassim Nicholas Taleb](https://www.goodreads.com/user/show/38315)
+
++ [Alchemy: The Surprising Power of Ideas That Don't Make Sense - Rory Sutherland](https://www.goodreads.com/user/show/26210508)
+
++ [The Autobiography of Benjamin Franklin - Benjamin Franklin](https://www.goodreads.com/user/show/52309)
+
+
+
+## Business
+
++ [Shoe Dog: A Memoir by the Creator of Nike - Phil Knight](https://www.goodreads.com/user/show/27220736)
+
++ [The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you - Rob Fitzpatrick](https://www.goodreads.com/user/show/52283963)
+
++ [Good Strategy Bad Strategy: The Difference and Why It Matters - Richard P. Rumelt](https://www.goodreads.com/user/show/11721966)
+
++ [Trillion Dollar Coach: The Leadership Playbook of Silicon Valley's Bill Campbell - Eric Schmidt](https://www.goodreads.com/user/show/42118073)
+
++ [Never Split the Difference: Negotiating As If Your Life Depended On It - Chris Voss](https://www.goodreads.com/user/show/26156469)
+
++ [Crossing the Chasm: Marketing and Selling High-Tech Products to Mainstream Customers - Geoffrey A. Moore](https://www.goodreads.com/user/show/61329)
