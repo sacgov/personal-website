@@ -4,11 +4,9 @@ title: Bookshelf
 permalink: /bookshelf/
 ---
 
-A list of books I've found useful. Other books I have read: [GoodReads.](https://www.goodreads.com/user/show/44678772-sachin-govind)
+A list of books 100ish book I've found useful. Find Other books I have read: [GoodReads.](https://www.goodreads.com/user/show/sacgov)
 
 ## Fiction
-
-
 
 + [The Complete Sherlock Holmes - Arthur Conan Doyle](https://www.goodreads.com/user/show/188572)
 
