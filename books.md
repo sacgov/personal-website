@@ -4,7 +4,7 @@ title: Bookshelf
 permalink: /bookshelf/
 ---
 
-A list of books I've found useful. Other books I have read [here on GoodReads.](https://www.goodreads.com/user/show/sacgov)
+A list of books I've found useful. Other books I have read on [GoodReads.](https://www.goodreads.com/user/show/sacgov)
 
 ## Favorites
 + [Sapiens: A Brief History of Humankind - Yuval Noah Harari](https://www.goodreads.com/user/show/23692271)
