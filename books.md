@@ -4,7 +4,7 @@ title: Bookshelf
 permalink: /bookshelf/
 ---
 
-A list of books 100ish book I've found useful. Find Other books I have read: [GoodReads.](https://www.goodreads.com/user/show/sacgov)
+A list of books I've found useful. Other books I have read [here on GoodReads.](https://www.goodreads.com/user/show/sacgov)
 
 ## Fiction
 
