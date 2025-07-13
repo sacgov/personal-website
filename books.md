@@ -77,7 +77,7 @@ A list of books I've found useful. Other books I have read on [GoodReads](https:
 + [Capital in the Twenty First Century - Thomas Piketty](https://www.goodreads.com/book/show/18736925)
 + [Scarcity: Why Having Too Little Means So Much - Sendhil Mullainathan](https://www.goodreads.com/book/show/17286670)
 
-## Non Fiction
+## General Non Fiction
 + [The Bhagavad Gita - Krishna-Dwaipayana Vyasa](https://www.goodreads.com/book/show/99944)
 + [Outliers: The Story of Success - Malcolm Gladwell](https://www.goodreads.com/book/show/3228917)
 + [Liquid Rules: The Delightful and Dangerous Substances That Flow Through Our Lives - Mark Miodownik](https://www.goodreads.com/book/show/35721140)
